@@ -1,0 +1,23 @@
+{
+  "name": "room_planner",
+  "version": "1.0.0",
+  "description": "a project to assist in making room layouts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/HenryMueller/room_planner.git"
+  },
+  "author": "Henry Mueller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenryMueller/room_planner/issues"
+  },
+  "homepage": "https://github.com/HenryMueller/room_planner#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql": "^2.18.1"
+  }
+}
